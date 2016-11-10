@@ -19,3 +19,14 @@ En el proyecto final, analizaremos los datos **EST46111_MEXBaseline_Data.RData**
 
 Para cargar los datos en R utiliza las siguientes líneas de comando:
 
+```
+library(repmis)
+
+source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST46111_NFLDraft_Data.RData?raw=true")
+
+source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST46111_DatosMexico_Data.RData?raw=true")
+
+source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST46111_Donohue&Levitt_Data.RData?raw=true")
+
+source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST46111_MEXBaseline_Data.RData?raw=true")
+```
