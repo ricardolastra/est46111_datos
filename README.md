@@ -30,3 +30,11 @@ source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST4
 
 source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST46111_MEXBaseline_Data.RData?raw=true")
 ```
+
+Para usar las funciones en R usen:
+
+```
+source("https://raw.githubusercontent.com/jcmartinezovando/est46111_datos/master/BayLinReg.R")
+
+source("https://raw.githubusercontent.com/jcmartinezovando/est46111_datos/master/BayHierLinReg.R")
+```
