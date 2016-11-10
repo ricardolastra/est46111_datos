@@ -10,7 +10,7 @@ BayHierLinReg <- function(hdata,m_0,S_0,a_0,b_0,M) {
 # 	b_0				-	prior scale 
 # 	M				-	number of MCMC simulations
 #
-#	Author: 	Juan~Carlos Martínez-Ovando
+#	Author: 	Juan Carlos Martinez-Ovando
 #	Email:		juan.martinez.ovando@itam.mx
 #
 
@@ -26,7 +26,7 @@ Y <- hdata[,1]
 
 J <- max(unique(G))
 
-#	Repositorio
+#	Repository for the output
 mjh_sim <- array(NaN,c(M,p,J))
 mh_sim <- array(NaN,c(M,p))
 lambdah_sim <- matrix(NaN,M,1)
