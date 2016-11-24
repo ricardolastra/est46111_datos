@@ -29,6 +29,8 @@ source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST4
 source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST46111_Donohue&Levitt_Data.RData?raw=true")
 
 source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST46111_MEXBaseline_Data.RData?raw=true")
+
+source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST46111_USCommData_Data.RData?raw=true")
 ```
 
 Para cargar las funciones en R usen:
