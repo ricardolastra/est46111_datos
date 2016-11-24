@@ -13,7 +13,7 @@ En clase analizamos diferentes datos:
 
 ### Proyecto Final
 
-En el proyecto final, analizaremos los datos **EST46111_MEXBaseline_Data.RData**, los cuales corresponden a 
+En el proyecto final, analizaremos los datos **EST46111_USCommData_Data.RData**, los cuales corresponden a los registros a nivel comunidad de la tasa de incidencia criminal en los EEUU junto con un conjunto de otras variables socio-econ\'omicas y demog\'aficas de las mismas comunidades. Los datos se observan para un periodo de tiempo dado, y se indica a qu\'e estado de los EEUU pertenece la comunidad. El prop\'osito del estudio es el de caracterizar la tasa de incidencia criminal en las comunidades de los EEUU a partir de sus posibles determinantes.
 
 ## Carga de datos en R
 
